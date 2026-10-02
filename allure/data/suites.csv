@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8643","Customer Module","chromium","2026-10-01","passed","2026-10-01","ERP Inventory Management","ERPSingleData.spec.ts","",""
+"","8399","supplier with single data","chromium","2026-10-01","passed","2026-10-01","ERP Inventory Management","ERPSingleData.spec.ts","",""
